@@ -1,8 +1,19 @@
 {
   "key": "RizzKece",
   "users": [
-    { "username": "Rizz", "password": "rizz1921", "id": 6677983204 },
-    { "username": "alice", "password": "alice123", "id": 22222222 }
+    {
+      "username": "sendi",
+      "password": "RuPUnP9j",
+      "id": 6677983204
+    },
+    {
+      "username": "alice",
+      "password": "alice123",
+      "id": 22222222
+    }
   ],
-  "banned": [ 33333333, 44444444 ]
+  "banned": [
+    33333333,
+    44444444
+  ]
 }
