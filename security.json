@@ -1,69 +1,8 @@
 {
-  "key": "RizzKece",
-  "users": [
-    {
-      "username": "bokep",
-      "password": "ozlA7YOU",
-      "id": 6677983204
-    },
-    {
-      "username": "alice",
-      "password": "alice123",
-      "id": 22222222
-    },
-    {
-      "username": "Hantu",
-      "password": "3L9QGeCS",
-      "id": 1561865284
-    },
-    {
-      "username": "parzxy",
-      "password": "T8G32Q10",
-      "id": 7331691865
-    },
-    {
-      "username": "Linzgege",
-      "password": "2BxbMU7C",
-      "id": 8023102513
-    },
-    {
-      "username": "chan",
-      "password": "nNe6VUfX",
-      "id": 8109540941
-    },
-    {
-      "username": "yanz",
-      "password": "lyXd4lno",
-      "id": 7640394989
-    },
-    {
-      "username": "arif",
-      "password": "kwDQRBji",
-      "id": 8299045394
-    },
-    {
-      "username": "vyanz",
-      "password": "q68JnG7T",
-      "id": 7236125401
-    },
-    {
-      "username": "Rizzneww",
-      "password": "K8fs6f4c",
-      "id": 8242641002
-    },
-    {
-      "username": "fiff",
-      "password": "msSFgzpn",
-      "id": 7661631649
-    },
-    {
-      "username": "slebewmaks",
-      "password": "iMAnTmlB",
-      "id": 7158867284
-    }
+  "botKeys": [
+    "rizz"
   ],
-  "banned": [
-    33333333,
-    44444444
+  "panelKeys": [
+    "rizz"
   ]
 }
